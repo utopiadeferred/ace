@@ -109,7 +109,7 @@
 | rr1 | s/m | Speed coefficient for rolling resistance |
 | rr_slip | N·s/m | Slip influence on rolling resistance |
 | rrWearMult | dimensionless | Wear effect on rolling resistance |
-| **grooveData (Groove Effects for Wet Conditions)** | | |
+| **grooveData** | | |
 | grooveSAFactor | dimensionless | Groove effect on slip angle behavior |
 | grooveSRFactor | dimensionless | Groove effect on slip ratio behavior |
 | **Operating Settings** | | |
